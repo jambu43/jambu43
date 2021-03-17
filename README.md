@@ -87,4 +87,4 @@ I'm [Joel AMBU](https://github.com/jambu43), an experienced & and mobil develope
   
 
 </p>
-[![Neosoulink GitHub stats](https://github-readme-stats.vercel.app/api?username=jambu43&theme=dark&show_icons=true)
+![joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jambu43&theme=dark&show_icons=true)
