@@ -1,6 +1,7 @@
-
 # 👋 Hey there
+
 ### **Description**
+
 I'm [Joel AMBU](https://github.com/jambu43), an experienced & and mobil developer and technical writer with a demonstrated history of working in the information technology and services industry.
 
 ### **🧠 My tech stacks:**
@@ -51,14 +52,23 @@ I'm [Joel AMBU](https://github.com/jambu43), an experienced & and mobil develope
   </code> 
   <code>
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png">
-  </code> 
-
-
+  </code>
 
   </div>
 </p>
 
+### **Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=jambu43&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jambu43&count_private=true&theme=dracula">
+
+</p>
+
+
 ### **🤝🏻 Connect with me:**
+
 <p align="center">
 
 <div align="">
@@ -84,9 +94,7 @@ I'm [Joel AMBU](https://github.com/jambu43), an experienced & and mobil develope
     <img height="40" src="https://nicolasersalefilms.files.wordpress.com/2015/08/gmail-icon.png">
   </a>
   </code> 
-  
+
 
 </p>
 <br>
-![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jambu32&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jambu43&layout=compact&langs_count=6&show_icons=true&count_private=true&theme=gotham&bg_color=1E1E1E)](https://github.com/jambu43)
