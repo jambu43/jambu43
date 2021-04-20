@@ -88,5 +88,3 @@ I'm [Joel AMBU](https://github.com/jambu43), an experienced & and mobil develope
 
 </p>
 <br>
-![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jambu32&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jambu43&layout=compact&langs_count=6&show_icons=true&count_private=true&theme=gotham&bg_color=1E1E1E)](https://github.com/jambu43)
