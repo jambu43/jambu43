@@ -58,13 +58,13 @@ I'm [Joel AMBU](https://github.com/jambu43), an experienced & and mobil develope
 </p>
 
 ### **Github Stats:**
-
+<!-- 
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=jambu43&hide=stars&show_icons=true&theme=dracula&line_height=32">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jambu43&count_private=true&theme=dracula">
 
-</p>
+</p> -->
 
 
 ### **🤝🏻 Connect with me:**
