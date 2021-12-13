@@ -59,7 +59,7 @@ I'm [Joel AMBU](https://github.com/jambu43), an experienced & and mobil develope
 
 ### **Github Stats:**
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jambu43&show_icons=true&theme=radical)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jambu43)](https://github.com/jambu43/github-readme-stats)
+
 
 <!-- 
 <p align="center">
